@@ -1,8 +1,3 @@
-Topic content
----
-
-### Content summary
-
 - 객체의 인스턴스를 생성하는 방법
     - Public 생성자를 이용하기
 
@@ -29,6 +24,7 @@ Topic content
         ```
 
     - 정적 팩터리 메서드를 만들어, 사용하기
+
         ```java
         public class User {
         
@@ -51,6 +47,7 @@ Topic content
         ```
 
     - 팩터리 메서드..? `팩터리 메서드` ≠ `정적 펙터리 메서드`
+
       정적 팩터리 메서드란? [참고링크](https://bcp0109.tistory.com/367)
 
 - `정적 팩터리 메서드` 의 장점
@@ -390,27 +387,3 @@ Topic content
 - 핵심 정리
     - 정적 팩터리 메서드와 public 생성자는 각자의 쓰임새가 있으니, 상대적인 장단점을 이해하고 사용하는 것이 좋다.
     - 정적 팩터리를 사용하는게 유리한 경우가 더 많으므로, 무작정 public 생성자를 제공하던 습관이 있다면 고치자!
-
----
-
-### Content Application
-
--
-
-<aside>
-<img src="/icons/question-mark_gray.svg" alt="/icons/question-mark_gray.svg" width="40px" />
-
-## About topic
-
-</aside>
-
--
-
-<aside>
-<img src="/icons/link_gray.svg" alt="/icons/link_gray.svg" width="40px" />
-
-## Reference
-
-</aside>
-
--
