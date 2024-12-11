@@ -1,7 +1,8 @@
 # 이펙티브 자바 공부!
 
 ## Chapter1) 들어가기
-### Item1) [생성자 대신 정적 팩터리 메서드를 활용하라](https://github.com/KangBaekGwa/effective-java/tree/main/src/main/java/baekgwa/chapter2/Item1)
+- Item1) [생성자 대신 정적 팩터리 메서드를 활용하라](https://github.com/KangBaekGwa/effective-java/tree/main/src/main/java/baekgwa/chapter2/Item1)
+- Item2) [생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/KangBaekGwa/effective-java/tree/main/src/main/java/baekgwa/chapter2/item2)
 
 ## Chapter2) 객체 생성과 파괴
 
