@@ -4,6 +4,8 @@
 - Item1) [생성자 대신 정적 팩터리 메서드를 활용하라](https://github.com/KangBaekGwa/effective-java/tree/main/src/main/java/baekgwa/chapter2/Item1)
 - Item2) [생성자에 매개변수가 많다면 빌더를 고려하라](https://github.com/KangBaekGwa/effective-java/tree/main/src/main/java/baekgwa/chapter2/item2)
 - Item3) [private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/KangBaekGwa/effective-java/tree/main/src/main/java/baekgwa/chapter2/item3)
+- Item4) [인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/KangBaekGwa/effective-java/tree/main/src/main/java/baekgwa/chapter2/item4)
+
 ## Chapter2) 객체 생성과 파괴
 
 ## Chapter3) 모든 객체의 공통 메서드
